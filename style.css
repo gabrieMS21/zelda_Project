@@ -142,6 +142,10 @@ textarea {
   border: 1px solid #ccc;
 }
 
+textarea{
+  resize: none;
+}
+
 button {
   background-color: #b99f65;
   color: #f2efd5;
